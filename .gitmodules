@@ -5,3 +5,6 @@
 [submodule "autorelevate"]
 	path = autorelevate
 	url = https://github.com/vksharma-bhu/autorelevate
+[submodule "stagelife"]
+	path = stagelife
+	url = https://github.com/vksharma-bhu/stagelife
